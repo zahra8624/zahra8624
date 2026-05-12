@@ -2,7 +2,7 @@
 <div align="center">
   
 <div align="center">
-  <img src="zahra_welcome.gif" alt="Welcome" />
+  <img src="zahra_welcome(1).gif" alt="Welcome" />
 </div>
 
 ### `< Front-End Developer · AI Enthusiast />`
