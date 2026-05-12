@@ -1,9 +1,9 @@
 <!-- Header Banner -->
 <div align="center">
   
-![Welcome](zahra_welcome.gif)
-
-# 👩‍💻 Zahra Reisi
+<div align="center">
+  <img src="zahra_welcome.gif" alt="Welcome" />
+</div>
 
 ### `< Front-End Developer · AI Enthusiast />`
 
