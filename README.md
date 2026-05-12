@@ -1,18 +1,10 @@
 <!-- Header Banner -->
 <div align="center">
 
-```
- ██████╗  █████╗ ██╗  ██╗██████╗  █████╗     ██████╗ ███████╗██╗███████╗██╗
- ╚════██╗██╔══██╗██║  ██║██╔══██╗██╔══██╗    ██╔══██╗██╔════╝██║██╔════╝██║
-  █████╔╝███████║███████║██████╔╝███████║    ██████╔╝█████╗  ██║███████╗██║
-  ╚═══██╗██╔══██║██╔══██║██╔══██╗██╔══██║    ██╔══██╗██╔══╝  ██║╚════██║██║
- ██████╔╝██║  ██║██║  ██║██║  ██║██║  ██║    ██║  ██║███████╗██║███████║██║
- ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝╚══════╝╚═╝
-```
 
 # 👩‍💻 Zahra Reisi
 
-### `< Front-End Developer · AI Enthusiast · Geek Girl />`
+### `< Front-End Developer · AI Enthusiast />`
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=ff6eb4)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=c084fc)](https://nextjs.org/)
@@ -30,11 +22,11 @@
 const zahra: Developer = {
   name: "Zahra Reisi",
   role: "Front-End Developer",
-  education: "MSc Artificial Intelligence @ Isfahan University of Technology",
+  education: "MSc Artificial Intelligence @ IUT",
   experience: "~3 years",
   location: ["Canada 🇨🇦", "Germany 🇩🇪", "Türkiye 🇹🇷", "Iran 🇮🇷"],
-  currentFocus: ["LLMs", "Anthropic API", "AI-powered products"],
-  learning: ["Claude Code", "Prompt Engineering", "RAG patterns"],
+  currentFocus: ["AI-powered products", "LLMs", "Anthropic API",],
+  learning: ["Anthropic API", "Prompt Engineering", "RAG patterns"],
   status: "open to AI-powered teams ✨",
 };
 ```
@@ -47,9 +39,9 @@ const zahra: Developer = {
 
 <div align="center">
 
-| 🗓 Experience | 🏢 Companies | 📲 App Downloads | 🌍 Countries |
+| 🗓 Experience | 🏢 Companies  | 🌍 Countries |
 |:---:|:---:|:---:|:---:|
-| ~3 years | 4 | 25,000+ | 4 |
+| ~3 years | 4 | 4 |
 
 </div>
 
