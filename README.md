@@ -1,6 +1,7 @@
 <!-- Header Banner -->
 <div align="center">
-
+  
+![Welcome](zahra_welcome.gif)
 
 # 👩‍💻 Zahra Reisi
 
