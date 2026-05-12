@@ -32,7 +32,7 @@ const zahra: Developer = {
 };
 ```
 
-> *Front-End Developer with nearly 3 years of experience building scalable web applications using React and Next.js, holding a Master's in Artificial Intelligence. Passionate about AI-powered products and designing experiences that simplify complex workflows.*
+> *Front-End Developer with +3 years of experience building scalable web applications using React and Next.js, holding a Master's in Artificial Intelligence. Passionate about AI-powered products and designing experiences that simplify complex workflows.*
 
 ---
 
@@ -42,7 +42,7 @@ const zahra: Developer = {
 
 | 🗓 Experience | 🏢 Companies  | 🌍 Countries |
 |:---:|:---:|:---:|:---:|
-| ~3 years | 4 | 4 |
+| +3 years | 4 | 4 |
 
 </div>
 
@@ -75,7 +75,6 @@ const zahra: Developer = {
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Agora](https://img.shields.io/badge/Agora-099DFD?style=flat-square)
 
 ---
 
@@ -85,7 +84,7 @@ const zahra: Developer = {
 AI Journey Progress ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 LLM integration & Anthropic API    ████████████████████░░░░  85%
-AI-assisted dev (Claude, Lovable)  ██████████████████░░░░░░  78%
+AI-assisted dev (Claude, Lovable)  ███████████████████████░  96%
 AI product design & UX             █████████████████░░░░░░░  72%
 Prompt engineering & RAG patterns  ████████████████░░░░░░░░  65%
 ```
